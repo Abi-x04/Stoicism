@@ -1,0 +1,19 @@
+h1{ font-size:30px;
+color:darkgrey;}
+p{
+	font-style:italic;
+	color:darksalmon;
+}
+.poza{
+	font-style:oblique;
+	color:darkslategrey;
+}
+.big{
+	font-size: 40px;
+}
+.realsmr{
+color:darkred;
+}
+h1 span{
+color:darkred;
+}
